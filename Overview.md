@@ -1,8 +1,8 @@
 # Overview
 
-## Going back in time: deployment patterns
+## Container evolution
 
-![Deployment patterns](./images/deployment-patterns.png)
+![Container evolution](./images/Container_Evolution.svg)
 
 * **Traditional deployment**
     * Applications ran directly on physical servers
