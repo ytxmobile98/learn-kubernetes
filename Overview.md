@@ -26,3 +26,30 @@
         * Loosely coupled, distributed, elastic, liberated micro-services
         * Resource isolation
         * Resource utilization
+
+## Why you need Kubernetes and what it can do
+
+Kubernetes provides you with:
+
+* Service discovery and balancing
+* Storage orchestration
+* Automated rollouts and rollbacks
+* Automatic bin packing
+* Self-healing
+* Secret and configuration management
+* Batch execution
+* Horizontal scaling
+* IPv4/IPv6 dual-stack
+* Designed for extensibility
+
+## What Kubernetes is not
+
+Kubernetes:
+
+* Does not limit the types of applications supported
+* Does not deploy source code and does not build your application
+* Does not provide application-level services, such as middleware (for example, message buses), data-processing frameworks (for example, Spark), databases (for example, MySQL), caches, nor cluster storage systems (for example, Ceph) as built-in services
+* Does not indicate logging, monitoring, or alerting solutions
+* Does not provide nor mandate a configuration language/system (for example, Jsonnet)
+* Does not provide nor adopt any comprehensive machine configuration, maintenance, management, or self-healing systems
+* Is not a mere orchestration system, but instead eliminates the need for orchestration
