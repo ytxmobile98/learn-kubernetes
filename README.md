@@ -1,4 +1,4 @@
-# Learning Kubernetes
+# Learn Kubernetes
 
 ## [Concepts](./docs/concepts/)
 
