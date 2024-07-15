@@ -1,6 +1,6 @@
 # Kubernetes components
 
-![Kubernetes components](./images/components-of-kubernetes.svg)
+![Kubernetes components](../../../images/components-of-kubernetes.svg)
 
 ## Control Plane components
 

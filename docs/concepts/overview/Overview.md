@@ -2,7 +2,7 @@
 
 ## Container evolution
 
-![Container evolution](./images/Container_Evolution.svg)
+![Container evolution](../../../images/Container_Evolution.svg)
 
 * **Traditional deployment**
     * Applications ran directly on physical servers
